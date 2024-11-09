@@ -1,8 +1,0 @@
-package com.ripan.production.string;
-
-public class StringEqualsMethodAndDoubleEquals {
-    public static void main(String[] args) {
-
-        
-    }
-}
