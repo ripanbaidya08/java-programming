@@ -1,0 +1,8 @@
+package com.ripan.production.pattern;
+
+public class SquareHollowPattern {
+    public static void main(String[] args) {
+
+        
+    }
+}

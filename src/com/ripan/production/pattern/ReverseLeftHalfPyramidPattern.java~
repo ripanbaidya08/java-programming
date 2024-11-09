@@ -1,0 +1,13 @@
+package com.ripan.production.pattern;
+
+public class ReverseLeftHalfPyramidPattern {
+
+    public static void reverseLeftHalfPyramidPattern(int n) {
+        
+    }
+
+    public static void main(String args[]) {
+        int n = 6;
+        reverseLeftHalfPyramidPattern(n);
+    }
+}

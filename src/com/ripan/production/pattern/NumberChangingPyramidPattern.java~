@@ -1,0 +1,9 @@
+package com.ripan.production.pattern;
+
+public class NumberChangingPyramidPattern {
+
+    
+    public static void main(String[] args) {
+
+    }
+}

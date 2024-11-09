@@ -1,0 +1,10 @@
+Java Revision :
+
+24.06.2024 : 0-10	: 7 oct - 27 oct	: done
+25.06.2024 : 11 - 20 	: 28 oct - 22 nov 	: done
+26.06.2024 : 21 - 30 	: 24 nov - 11 dec	: done
+27.06.2024 : 21 - 30 	: 15 dec - 6 jan	: done
+
+Note : 30th dec, Multithreading -> 30, 31, 
+28.06.2024 : 31 - 40 	: 7 jan - 27 jan	:
+29.06.2024 : 31 - 40 	:  jan - jan	:
