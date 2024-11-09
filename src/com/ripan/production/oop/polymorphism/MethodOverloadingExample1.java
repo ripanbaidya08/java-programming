@@ -1,4 +1,4 @@
-package com.ripan.production.oop.inheritence;
+package com.ripan.production.oop.polymorphism;
 
 class Calculation{
 
