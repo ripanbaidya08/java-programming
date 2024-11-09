@@ -1,0 +1,10 @@
+package com.ripan.production.oop.basic;
+
+public class StaticExample3 {
+    
+    /**
+     * out:
+     * First static block
+     * Second static block
+     */
+}
