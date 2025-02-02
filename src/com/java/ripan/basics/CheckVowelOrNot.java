@@ -1,17 +1,22 @@
 package com.java.ripan.basics;
 
 // check whether a character is vowel or not.
-
+// a - z A - Z
+// a e i o u - A E I O U
 public class CheckVowelOrNot {
-    public static void main(String[] args) {
 
+    public static boolean isVowel(char ch){
+        if(ch == 'a' || ch == 'A' || ch == 'e' || ch == 'E' || ch == 'i' || ch == 'I' || ch == 'o' || ch == 'O'|| ch == 'u' || ch == 'U')
+            return true;
+        else
+            return false; // not vowel
+    }
+
+    public static void main(String[] args) {
         char ch = 'a';
 
-        // vowel = a, e, i, o, u
+        boolean result = isVowel(ch) ? true : false; // tranary operator
 
-        if(ch == 'a' || ch == 'A' || ch == 'e' || ch == 'E' || ch == 'i' || ch == 'I' || ch == 'o' || ch == 'O'|| ch == 'u' || ch == 'U')
-            System.out.println("vowel");
-        else
-            System.out.println("not vowel");
+        System.out.println(result);
     }
 }

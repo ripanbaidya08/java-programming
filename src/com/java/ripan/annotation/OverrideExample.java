@@ -18,7 +18,7 @@ class Child extends Parent{
         System.out.println("inside child class, and method is overridden..");
     }
 }
-public class EgOverride{
+public class OverrideExample{
 
     public static void main(String[] args) {
 
